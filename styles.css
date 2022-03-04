@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, sans-serif;
+    background-color: aquamarine;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    border-radius: 25px;
+}
+
+h1{
+    width: auto;
+    height: 40px;
+    background-color: #000099;
+    color: #ffff00;
+    text-align: center;
+    border-radius: 25px;
+}
+
+h2{
+    font-style: italic;
+}
+
+.description, .recipe{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 0 10px 0 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #000099;
+    text-align: justify;
+}
+
+li ul, li ol, li{
+    margin-bottom: 5px;
+}
+
+.snowflake{
+    margin-top: 5px;
+}
